@@ -3,3 +3,6 @@ def to_upper(text: str) -> str:
 
 def count_words(text: str) -> int:
     return len(text.split())
+
+def add(a,b):
+    return a+b
