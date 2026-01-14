@@ -4,6 +4,6 @@ from string_utils import to_upper
 def run_demo():
     print("Add Result:", add(10, 20))
     print("Upper Result:", to_upper("github demo"))
-
+    print("yes")
 if __name__ == "__main__":
     run_demo()
